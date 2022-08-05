@@ -1,12 +1,20 @@
+/*
 * {
     margin: 0;
     padding: 0;
 }
 
 body {
-    
+    width: 1140px;
 }
 
 header {
-    background: url(image/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash%201.jpg);
+    background-image: url(image/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash%201.jpg);
+    width: 1140px;
+    height: 800px;
+    background-position: cover;
 }
+
+.header_menu {
+    list-style-type: none;
+}*/
